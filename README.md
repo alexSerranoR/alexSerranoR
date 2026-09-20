@@ -1,33 +1,45 @@
-👋 Hey there, I’m Alex Serrano
+# 👋 Hey, I'm Alex Serrano
 
-🚀 **Tech Explorer | Finance Enthusiast | Athlete** 🚀
+🎓 **Software Engineering & Business/Technology Student**
+💻 Interested in **Software Engineering, AI, Blockchain & FinTech**
 
-👀 What I’m into...
+I'm especially interested in projects where **technology, data and business** come together. I enjoy building software, exploring emerging technologies and understanding how they can be applied to real-world problems.
 
-- I thrive at the **intersection of technology, business, and innovation**. From blockchain and decentralized finance to software engineering and AI, I’m always looking to push boundaries.
-Beyond tech, I have a deep passion for *sports*, especially boxing, running, and football.
+## 🚀 What I'm currently working on
 
-🌱 Currently Learning...
+* 🤖 **Artificial Intelligence & Data Analysis**
+* ⛓️ **Blockchain, Ethereum, DeFi & DAO ecosystems**
+* 💻 **Software Engineering and Algorithms**
+* 📊 **Data processing, APIs and exploratory analysis**
+* 🌐 Building and improving personal software projects
 
-- Advanced Software Engineering
-- Decentralized Finance (DeFi), blockchain & Cryptoeconomics
-- Economic Fundamentals & Business Strategy
+## 🛠️ Technologies
 
-💞️ Open to Collaborate on...
+**Languages:**
+`Java` · `C++` · `Python` · `SQL` · `JavaScript`
 
-- 🚀 Blockchain & Web3 Projects
+**Currently working with:**
+`Git` · `GitHub` · `Jupyter` · `Pandas` · `REST APIs` · `MongoDB` · `Solidity`
 
-- 💰 FinTech & DeFi Innovations
 
-- 🎮 Game Development & AI-driven Systems
+## 🤝 Interested in
 
-- 👨‍💻 Creative Tech Solutions & Startups
+* Software Engineering
+* Artificial Intelligence
+* Blockchain & Web3
+* FinTech & DeFi
+* Data-driven applications
+* Tech startups and innovative products
 
-📫 How to Reach Me
+## 🥊 Beyond Tech
 
-- 📩 Email: alserr07@ucm.es
+Outside of coding, I'm passionate about sports — especially **football, running, boxing and strength training**.
 
-⚡ Fun Fact
+## 📫 Contact
 
-- When I’m not coding or analyzing crypto trends, you can probably find me training football or sparring in the ring.
-Tech, business, and sports are my battlefield and I play to win.
+📩 **Email:** [alserr07@ucm.es](mailto:alserr07@ucm.es)
+
+---
+
+⭐ Always learning, building and looking for new challenges.
+
