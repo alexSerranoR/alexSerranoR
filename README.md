@@ -1,45 +1,73 @@
 # 👋 Hey, I'm Alex Serrano
 
-🎓 **Software Engineering & Business/Technology Student**
-💻 Interested in **Software Engineering, AI, Blockchain & FinTech**
+🎓 Final-year **Software Engineering & Business/Technology** student in Madrid.
 
-I'm especially interested in projects where **technology, data and business** come together. I enjoy building software, exploring emerging technologies and understanding how they can be applied to real-world problems.
+My main focus is **Software Engineering**: designing, building and improving reliable software systems. I’m especially interested in applying software engineering to areas such as **AI, data, blockchain, cloud and FinTech**, where strong technical foundations can be combined with real-world problems.
 
-## 🚀 What I'm currently working on
+## 🚀 Currently working on
 
-* 🤖 **Artificial Intelligence & Data Analysis**
-* ⛓️ **Blockchain, Ethereum, DeFi & DAO ecosystems**
-* 💻 **Software Engineering and Algorithms**
-* 📊 **Data processing, APIs and exploratory analysis**
-* 🌐 Building and improving personal software projects
+### 💻 Algorithmic Techniques
+Working on different algorithmic problems and implementations in C++, applying techniques such as graph algorithms, greedy methods, dynamic programming and priority-based data structures.
 
-## 🛠️ Technologies
+`C++` · `Algorithms` · `Data Structures` · `Problem Solving`
 
-**Languages:**
-`Java` · `C++` · `Python` · `SQL` · `JavaScript`
+### 🕸️ Mapping Blockchain Ecosystem
+Final-year research project focused on analyzing the DAO ecosystem across multiple governance platforms.
 
-**Currently working with:**
-`Git` · `GitHub` · `Jupyter` · `Pandas` · `REST APIs` · `MongoDB` · `Solidity`
+Working with a large real-world dataset containing **85K+ DAOs, 370K+ proposals and millions of votes**, building reproducible data pipelines and graph-based models to identify relationships between decentralized organizations.
 
+`Python` · `Pandas` · `NetworkX` · `Jupyter` · `Data Engineering`
 
-## 🤝 Interested in
+### ☁️ Cloud & DevOps Lab
+Hands-on project focused on learning and implementing cloud infrastructure, containerization and deployment workflows on AWS.
 
-* Software Engineering
-* Artificial Intelligence
-* Blockchain & Web3
-* FinTech & DeFi
-* Data-driven applications
-* Tech startups and innovative products
+`AWS` · `Docker` · `ECS` · `Python` · `GitHub`
+
+## ✅ Completed projects
+
+### 🤖 Multi-Agent Negotiation System
+Built during a **48-hour Claude Code Hackathon** with a 3-person team.
+
+We developed a multi-agent negotiation system capable of analyzing market activity, sharing information between agents and adapting its strategy against other autonomous agents.
+
+`Python` · `AI Agents` · `Multi-Agent Systems` · `Data Analysis`
+
+### ⛓️ Quadratic Voting DAO
+Completed on-chain governance project implementing quadratic voting using **Solidity and ERC-20 tokens**.
+
+The project explores alternative mechanisms for decentralized decision-making through smart contracts and token-based governance.
+
+`Solidity` · `Ethereum` · `Web3` · `Smart Contracts`
+
+## 🛠️ Tech Stack
+
+**Software Engineering**  
+`Java` · `C++` · `Python` · `JavaScript` · `SQL`
+
+**Algorithms & Data Structures**  
+`C++` · `Dynamic Programming` · `Graphs` · `Priority Queues` · `Problem Solving`
+
+**Data & AI**  
+`Pandas` · `Jupyter` · `NetworkX` · `REST APIs`
+
+**Cloud & Tools**  
+`AWS` · `Docker` · `Git` · `GitHub` · `MongoDB`
+
+**Blockchain**  
+`Solidity` · `Ethereum` · `Web3`
+
+## 🎯 Areas of interest
+
+`Software Engineering` · `Backend Development` · `Algorithms` · `Artificial Intelligence` · `Data Engineering` · `Cloud Computing` · `Blockchain` · `FinTech`
 
 ## 🥊 Beyond Tech
 
-Outside of coding, I'm passionate about sports — especially **football, running, boxing and strength training**.
+Outside of coding, I'm passionate about **football, running, boxing and strength training**.
 
-## 📫 Contact
+## 📫 Let's connect
 
-📩 **Email:** [alserr07@ucm.es](mailto:alserr07@ucm.es)
+📩 [alserr07@ucm.es](mailto:alserr07@ucm.es)
 
 ---
 
-⭐ Always learning, building and looking for new challenges.
-
+Always learning, building and looking for the next challenge.
