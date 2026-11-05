@@ -1,73 +1,96 @@
-# 👋 Hey, I'm Alex Serrano
+<div align="center">
 
-🎓 Final-year **Software Engineering & Business/Technology** student in Madrid.
+<img src="assets/banner.svg" alt="Alex Serrano — Backend, AI, Data, Cloud, Blockchain" width="100%">
 
-My main focus is **Software Engineering**: designing, building and improving reliable software systems. I’m especially interested in applying software engineering to areas such as **AI, data, blockchain, cloud and FinTech**, where strong technical foundations can be combined with real-world problems.
+<br>
 
-## 🚀 Currently working on
+**Final-year Software Engineering & Business/Technology student in Madrid.**<br>
+Designing, building and improving reliable software systems, with a focus on AI, data, blockchain, cloud and FinTech.
 
-### 💻 Algorithmic Techniques
-Working on different algorithmic problems and implementations in C++, applying techniques such as graph algorithms, greedy methods, dynamic programming and priority-based data structures.
+<br>
 
-`C++` · `Algorithms` · `Data Structures` · `Problem Solving`
+<a href="https://alex-portfolio-eight-pi.vercel.app/en"><img src="https://img.shields.io/badge/Portfolio-0B0F14?style=for-the-badge&logo=vercel&logoColor=B6F24A" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/alejandro-serrano-ruibal"><img src="https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=B6F24A" alt="LinkedIn"></a>
+<a href="mailto:alserr07@ucm.es"><img src="https://img.shields.io/badge/Email-0B0F14?style=for-the-badge&logoColor=B6F24A" alt="Email"></a>
+<img src="https://img.shields.io/badge/Open_to_internships-Feb_2027-B6F24A?style=for-the-badge&labelColor=0B0F14" alt="Open to internships from February 2027">
 
-### 🕸️ Mapping Blockchain Ecosystem
-Final-year research project focused on analyzing the DAO ecosystem across multiple governance platforms.
+</div>
 
-Working with a large real-world dataset containing **85K+ DAOs, 370K+ proposals and millions of votes**, building reproducible data pipelines and graph-based models to identify relationships between decentralized organizations.
+<br>
 
-`Python` · `Pandas` · `NetworkX` · `Jupyter` · `Data Engineering`
+## What I focus on
 
-### ☁️ Cloud & DevOps Lab
-Hands-on project focused on learning and implementing cloud infrastructure, containerization and deployment workflows on AWS.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-`AWS` · `Docker` · `ECS` · `Python` · `GitHub`
+**Backend & Cloud**<br>
+Reliable services, containers and deployment workflows on AWS.
 
-## ✅ Completed projects
+</td>
+<td width="33%" valign="top">
 
-### 🤖 Multi-Agent Negotiation System
-Built during a **48-hour Claude Code Hackathon** with a 3-person team.
+**AI & Data**<br>
+Data pipelines, graph analysis and multi-agent systems.
 
-We developed a multi-agent negotiation system capable of analyzing market activity, sharing information between agents and adapting its strategy against other autonomous agents.
+</td>
+<td width="33%" valign="top">
 
-`Python` · `AI Agents` · `Multi-Agent Systems` · `Data Analysis`
+**Blockchain & FinTech**<br>
+On-chain governance and large-scale DAO research across 85K+ DAOs.
 
-### ⛓️ Quadratic Voting DAO
-Completed on-chain governance project implementing quadratic voting using **Solidity and ERC-20 tokens**.
+</td>
+</tr>
+</table>
 
-The project explores alternative mechanisms for decentralized decision-making through smart contracts and token-based governance.
+## Tech stack
 
-`Solidity` · `Ethereum` · `Web3` · `Smart Contracts`
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=java,cpp,py,js,ts&theme=dark" alt="Java, C++, Python, JavaScript, TypeScript"></td>
+</tr>
+<tr>
+<td><b>Web</b></td>
+<td><img src="https://skillicons.dev/icons?i=nextjs,react,html,css&theme=dark" alt="Next.js, React, HTML, CSS"></td>
+</tr>
+<tr>
+<td><b>Cloud & tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=aws,docker,git,github,mongodb&theme=dark" alt="AWS, Docker, Git, GitHub, MongoDB"></td>
+</tr>
+<tr>
+<td><b>Blockchain</b></td>
+<td><img src="https://skillicons.dev/icons?i=solidity&theme=dark" alt="Solidity"> &nbsp;<code>Ethereum</code> · <code>Web3</code> · <code>ERC-20</code></td>
+</tr>
+<tr>
+<td><b>Data & AI</b></td>
+<td><code>Pandas</code> · <code>NetworkX</code> · <code>Jupyter</code> · <code>SQL</code> · <code>REST APIs</code> · <code>AI Agents</code></td>
+</tr>
+<tr>
+<td><b>Algorithms</b></td>
+<td><code>Graphs</code> · <code>Dynamic Programming</code> · <code>Greedy</code> · <code>Priority Queues</code></td>
+</tr>
+</table>
 
-## 🛠️ Tech Stack
+## GitHub in numbers
 
-**Software Engineering**  
-`Java` · `C++` · `Python` · `JavaScript` · `SQL`
+<div align="center">
 
-**Algorithms & Data Structures**  
-`C++` · `Dynamic Programming` · `Graphs` · `Priority Queues` · `Problem Solving`
+<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alexSerranoR&show_icons=true&bg_color=0B0F14&title_color=B6F24A&text_color=E8EDF2&icon_color=B6F24A&border_color=2B3A47&border_radius=12">
+<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexSerranoR&layout=compact&langs_count=6&bg_color=0B0F14&title_color=B6F24A&text_color=E8EDF2&border_color=2B3A47&border_radius=12">
 
-**Data & AI**  
-`Pandas` · `Jupyter` · `NetworkX` · `REST APIs`
+<img alt="Contribution activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alexSerranoR&bg_color=0B0F14&color=E8EDF2&line=B6F24A&point=FFFFFF&area=true&area_color=B6F24A&hide_border=true&radius=12">
 
-**Cloud & Tools**  
-`AWS` · `Docker` · `Git` · `GitHub` · `MongoDB`
+</div>
 
-**Blockchain**  
-`Solidity` · `Ethereum` · `Web3`
+## Beyond tech
 
-## 🎯 Areas of interest
+Football, running, boxing and strength training.
 
-`Software Engineering` · `Backend Development` · `Algorithms` · `Artificial Intelligence` · `Data Engineering` · `Cloud Computing` · `Blockchain` · `FinTech`
+<br>
 
-## 🥊 Beyond Tech
+<div align="center">
 
-Outside of coding, I'm passionate about **football, running, boxing and strength training**.
+*Always learning, building and looking for the next challenge.*
 
-## 📫 Let's connect
-
-📩 [alserr07@ucm.es](mailto:alserr07@ucm.es)
-
----
-
-Always learning, building and looking for the next challenge.
+</div>
